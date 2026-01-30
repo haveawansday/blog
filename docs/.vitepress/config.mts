@@ -37,7 +37,7 @@ export default defineConfig({
 
     nav: [
       // { text: 'Home', link: '/' },
-      { text: 'wankorea', link: '/K0003_korean_learning_resources_download' }
+      { text: 'wankorea', link: '/korean/K0003_korean_learning_resources_download' }
     ],
 
     sidebar: [
@@ -66,7 +66,7 @@ export default defineConfig({
         items: [
           // { text: 'learning_memo', link: '/K0001_korean_learning_memo' },
           // { text: 'learning_resource', link: '/K0002_korean_learning_resource' },
-          { text: 'learning_resource_download', link: '/K0003_korean_learning_resources_download' },
+          { text: 'learning_resource_download', link: '/korean/K0003_korean_learning_resources_download' },
         ]
       }
     ],
