@@ -28,6 +28,13 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    siteTitle: 'WanTest',
+    logo: {
+      light: '/logo_w.png',
+      dark: '/logo_b.png',
+      alt: 'logo'
+    },
+
     nav: [
       // { text: 'Home', link: '/' },
       { text: 'wankorea', link: '/K0003_korean_learning_resources_download' }
