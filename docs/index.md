@@ -15,7 +15,7 @@ hero:
       link: /data/data1
     - theme: alt
       text: others
-      link: /data/data1
+      link: /others/othertest1
 
 # features:
 #   - title: Feature A
