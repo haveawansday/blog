@@ -1,3 +1,21 @@
+---
+title: 'Korean Learning Resource Download Page'
+image: ''
+description: '測試用的 Korean Learning Resource Download Page'
+keywords: ''
+author: 
+created: '2026-01-30'
+categories:
+  - 未分類
+tags:
+  - test
+  - korean
+  - books
+editLink: true
+search: true
+isPublished: true
+---
+
 # Korean Learning Resource Download Page
 
 
