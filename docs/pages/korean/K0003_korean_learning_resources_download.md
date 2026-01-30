@@ -16,7 +16,7 @@ search: true
 isPublished: true
 ---
 
-# Korean Learning Resource Download Page
+# Learning Resource Download Page
 
 
 ## 世宗學堂上課教材 세종한국어
