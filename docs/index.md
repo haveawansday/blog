@@ -10,6 +10,12 @@ hero:
     - theme: brand
       text: wankorea
       link: /K0003_korean_learning_resources_download
+    - theme: alt
+      text: data
+      link: /data/data1
+    - theme: alt
+      text: others
+      link: /data/data1
 
 # features:
 #   - title: Feature A
