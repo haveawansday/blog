@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: wankorea
-      link: /K0003_korean_learning_resources_download
+      link: /korean/K0003_korean_learning_resources_download
     - theme: alt
       text: data
       link: /data/data1
