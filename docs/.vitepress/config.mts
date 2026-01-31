@@ -6,7 +6,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/wankorean/", // 需要 / 開頭和結尾
-  title: "wankorean",
+  title: "haveawansday",
   description: "20260128 update",
 
   // 20250611 add ga trcking code 
@@ -31,7 +31,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    siteTitle: 'WanKorean',
+    siteTitle: 'HaveaWansDay',
     logo: {
       light: '/logo_w.png',
       dark: '/logo_b.png',
