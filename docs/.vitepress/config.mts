@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
-import nav from './theme/configs/nav'
-import sidebar from './theme/configs/sidebar'
-import search from './theme/configs/search'
+// import nav from './theme/configs/nav'
+// import sidebar from './theme/configs/sidebar'
+// import search from './theme/configs/search'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -38,9 +38,9 @@ export default defineConfig({
       alt: 'logo'
     },
 
-    nav,
-    sidebar,
-    search,
+    // nav,
+    // sidebar,
+    // search,
 
     lastUpdated: true
     // socialLinks: [
