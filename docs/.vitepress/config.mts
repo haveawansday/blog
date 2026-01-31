@@ -31,7 +31,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    siteTitle: 'WanTest',
+    siteTitle: 'WanKorean',
     logo: {
       light: '/logo_w.png',
       dark: '/logo_b.png',
