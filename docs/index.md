@@ -10,12 +10,12 @@ hero:
     - theme: brand
       text: wankorea
       link: /korean/K0002_sejong
-    - theme: alt
-      text: data
-      link: /data/data1
-    - theme: alt
-      text: others
-      link: /others/othertest1
+  #   - theme: alt
+  #     text: data
+  #     link: /data/data1
+  #   - theme: alt
+  #     text: others
+  #     link: /others/othertest1
 
 # features:
 #   - title: Feature A
