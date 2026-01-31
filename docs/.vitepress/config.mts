@@ -5,8 +5,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/wantest/", // 需要 / 開頭和結尾
-  title: "wanwan test",
+  base: "/wankorean/", // 需要 / 開頭和結尾
+  title: "wankorean",
   description: "20260128 update",
 
   // 20250611 add ga trcking code 
