@@ -1,5 +1,5 @@
 ---
-title: 'Seijong School'
+title: 'Sejong School'
 image: ''
 description: '世宗學堂免費韓文課'
 keywords: ''
