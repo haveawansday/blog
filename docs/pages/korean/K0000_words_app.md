@@ -36,6 +36,6 @@ Hi,
 3. 單字會繼續慢慢整理更新，可能會有錯誤，可以再通知我。
 4. App 只會記錄姓名還有測驗的結果，建議用個不太會重複的名字，可以一直紀錄下去。
 5. 如果覺得很難用，那就不用理它了，但是別來罵我ＸＤ。
-6. 以上的心理準備都有了，歡迎大家使用看看～
+6. 以上的心理準備都有了，視同同意上述內容，歡迎大家使用看看～
 
 <iframe src="https://wankoreantest.lovable.app" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
