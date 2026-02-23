@@ -57,9 +57,12 @@ isPublished: true
    ![register web](/files/images/korean/K0002_6.png)
   
 5. 成功報名後，點選右上角的 My Class 報名成功的課程會顯示在 **`waiting`**，即可等待開課
-
+   ![waiting class](/files/images/korean/K0002_7.png)
 
 ## 注意事項
+
+0. 每次報名可能都是不同的老師，沒辦法選擇上課的老師。
+   報名時評估自己方便上課的時間，報名結束之後，才會公開是哪個授課老師。
 
 1. 一次只能報名一堂課，上課的時候需要開視訊跟麥克風。
 
@@ -83,3 +86,6 @@ isPublished: true
    之前報名的時候，報名第一天網站就爆炸了😅。  
    下面是 2026 第一梯次的分流時間表
    ![register time split](/files/images/korean/K0002_3.png)
+
+8. 2026 1st 中文授課老師
+![chinese teacher](/files/images/korean/K0002_12.png)
