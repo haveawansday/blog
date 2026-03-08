@@ -30,7 +30,7 @@ isPublished: true
 
 線上課程共有 3 種類型：
 
-- **Lecture Assisted Type**  (包含課程影片、10 次老師授課、作業、考試，完成課程可獲得證書)
+- **Lecture Assisted Type**  (包含課程影片、10 次老師授課、作業、考試，完成課程可獲得證書。發音課程只有 5 次老師授課)
 - **Learning Assisted Type** (包含課程影片、3 次老師授課及作業)
 - **Self-learning Type** (僅包含課程影片)
 
@@ -47,7 +47,7 @@ isPublished: true
 
 1. 先 [註冊](https://www.iksi.or.kr/lms/main/main.do) 帳號 (網頁右上角可以切換語言)
 
-2. 進行 [程度測驗](https://nuri.iksi.or.kr/front/page/participation/onlineLevelTest/main.do)，測驗結果會建議適合報名的課程（部分課程有最低程度要求）  
+2. 進行 [程度測驗](https://nuri.iksi.or.kr/front/page/participation/onlineLevelTest/main.do)，測驗結果會建議適合報名的課程（部分課程有最低程度要求，報名發音課程不用做程度測驗）  
    ![test result](/files/images/korean/K0002_1.png)
 
 3. [查詢](https://www.iksi.or.kr/lms/main/crseMoreList_v2.do?cmtCrseSeCode=OFF001&crseType=OFF&processType=CRSETY001) 想報名的課程
@@ -79,13 +79,13 @@ isPublished: true
 
 5. 需要一點耐心，網站或 App 有時候會有些問題，可能隔個1～2天再試看看或是寄信詢問客服 `online1@ksif.or.kr` 
 
-6. 2026 年各梯次時間 (都是韓國時間，韓國比台灣早 1 小時)
+6. 各梯次報名時間 (都是韓國時間，韓國比台灣早 1 小時)
 ![register time](/files/images/korean/K0002_2.png)
 
 7. 因為報名的人數眾多，網站會被塞爆，所以在報名的期間還會按照等級做分流。  
    之前報名的時候，報名第一天網站就爆炸了😅。  
-   下面是 2026 第一梯次的分流時間表
+   下面是 第一梯次的分流時間表
    ![register time split](/files/images/korean/K0002_3.png)
 
-8. 2026 1st 中文授課老師
+8. 第一梯次中文授課老師
 ![chinese teacher](/files/images/korean/K0002_12.png)
