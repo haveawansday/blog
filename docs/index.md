@@ -8,7 +8,7 @@ hero:
   tagline: 
   actions:
     - theme: brand
-      text: wankorea
+      text: wankorean
       link: /korean/K0002_sejong
   #   - theme: alt
   #     text: data

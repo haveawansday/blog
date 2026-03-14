@@ -45,7 +45,7 @@ isPublished: true
 
 ## 簡單報名5步驟
 
-1. 先 [註冊](https://www.iksi.or.kr/lms/main/main.do) 帳號 (網頁右上角可以切換語言)
+1. 先 [註冊](https://nuri.iksi.or.kr/auth/service/member/join/joinPage.do?language=en) 帳號 (首頁右上角可以切換語言)
 
 2. 進行 [程度測驗](https://nuri.iksi.or.kr/front/page/participation/onlineLevelTest/main.do)，測驗結果會建議適合報名的課程（部分課程有最低程度要求，報名發音課程不用做程度測驗）  
    ![test result](/files/images/korean/K0002_1.png)
